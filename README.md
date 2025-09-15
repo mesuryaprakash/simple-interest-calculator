@@ -8,3 +8,6 @@ Run the script in your terminal:
 ```bash
 bash simple-interest.sh
 ```
+
+## EDIT
+
